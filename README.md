@@ -1,17 +1,6 @@
-# news_app
+<img src="https://github.com/jayminrao/News-App-With-Api/assets/138772785/6f529557-67fa-4e6e-8306-23263df57e66" height="500"/>
+<img src="https://github.com/jayminrao/News-App-With-Api/assets/138772785/cd602ad7-9fc8-41d7-8ccd-a92e5f4bbce4" height="500"/>
+<img src="https://github.com/jayminrao/News-App-With-Api/assets/138772785/5ecd5e1c-c8e5-4124-baa5-75d62faf7582" height="500"/>
+<img src="https://github.com/jayminrao/News-App-With-Api/assets/138772785/a2c5cb93-ce43-4945-8a70-f3862abf7db2" height="500"/>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# News-App-With-Api" 
+![device-2024-04-05-162205-ezgif com-video-to-gif-converter](https://github.com/jayminrao/News-App-With-Api/assets/138772785/ac0cfc7f-0f62-47c7-8a4d-3fe4406c0f1b)
